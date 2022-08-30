@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @j-oy
+- 👋 Hi, I’m joy
 - 👋 im a python, c++, and c# devloper 
 - 🌱 I’m currently learning c++, c#
 
